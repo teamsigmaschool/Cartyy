@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Ceramic Pour-Over Set",
+    "category": "Kitchen",
+    "price": 89,
+    "image": "/images/ph-product-1_480x480.svg"
+  },
+  {
+    "id": 2,
+    "name": "Bamboo Cutting Board",
+    "category": "Kitchen",
+    "price": 32,
+    "image": "/images/ph-product-2_480x480.svg"
+  },
+  {
+    "id": 3,
+    "name": "Canvas Tote Bag",
+    "category": "Bags",
+    "price": 19,
+    "image": "/images/ph-product-3_480x480.svg"
+  },
+  {
+    "id": 4,
+    "name": "Insulated Camping Cooler",
+    "category": "Outdoor",
+    "price": 329,
+    "image": "/images/ph-product-4_480x480.svg"
+  },
+  {
+    "id": 5,
+    "name": "Wool Throw Blanket",
+    "category": "Home",
+    "price": 139,
+    "image": "/images/ph-product-5_480x480.svg"
+  },
+  {
+    "id": 6,
+    "name": "Adjustable Desk Lamp",
+    "category": "Lighting",
+    "price": 79,
+    "image": "/images/ph-product-6_480x480.svg"
+  },
+  {
+    "id": 7,
+    "name": "Cork Yoga Mat",
+    "category": "Fitness",
+    "price": 55,
+    "image": "/images/ph-product-7_480x480.svg"
+  },
+  {
+    "id": 8,
+    "name": "Leather Passport Wallet",
+    "category": "Travel",
+    "price": 45,
+    "image": "/images/ph-product-8_480x480.svg"
+  }
+]
