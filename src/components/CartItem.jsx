@@ -1,6 +1,8 @@
+import '/src/App.css'
+
 import { Button } from 'react-bootstrap'
 
-function CartItem({ item, onIncrease, onDecrease, onRemove }) {
+function CartItem({ item, onRemove, onIncrease, onDecrease }) {
   return (
     <div className="ct-cart-item">
       <div className="ct-cart-item-top">
@@ -26,3 +28,4 @@ function CartItem({ item, onIncrease, onDecrease, onRemove }) {
 }
 
 export default CartItem
+
